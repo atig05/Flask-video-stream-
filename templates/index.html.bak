@@ -1,0 +1,11 @@
+<html>
+	<head>
+		<title>waafatos</title>
+	</head>
+	<body bgcolor="cyan">
+		<h1 align="center" >Stream</h1>
+		<div align="center" >
+			<img src={{" url_for('video') "}}/>
+		</div>
+	</body>
+</html>
